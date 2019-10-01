@@ -1,4 +1,4 @@
-# Networks-Lab
+# Networks-Lab - SRM IST
 ```diff
 - Use the code at your own risk. These codes are just for your reference.
 - Instead of Ctrl+C, try it with Ctrl+N
